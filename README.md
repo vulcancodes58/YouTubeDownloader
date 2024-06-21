@@ -15,4 +15,6 @@ to your liking. Enjoy!
 **TroubleShooting**
 - if you get an error about pytube, open cmd and type "pip install pytube" if you are on mac, and that didn't work, try "pip3 install pytube".
 
+This is 100% safe, run it through any antivirus software you want; I also commented a lot so you can understand step-by-step what lines of code do what.
+
 **Disclaimer**, this is for educational purposes only, I do not condone piracy.
